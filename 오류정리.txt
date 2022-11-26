@@ -1,0 +1,10 @@
+RemoveError: 'requests' is a dependency of conda and cannot be removed from conda's operating environment.
+
+--> conda update --force conda 입력
+      (아마 최신버전때문에 생긴 문제인듯??)
+
+Causing inconsistence
+
+--> 최신화가 안되서 생긴듯??
+      conda update --all 또는
+      conda install conda
